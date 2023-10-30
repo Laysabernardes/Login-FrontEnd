@@ -4,7 +4,7 @@ class Api {
 
   // Configuração padrão do Axios
   api = axios.create({
-    baseURL: 'http://localhost:3001',
+    baseURL: 'https://api-login-0qlo.onrender.com/',
   });
   
   // Exemplo de função para fazer uma solicitação de registro de usuário
