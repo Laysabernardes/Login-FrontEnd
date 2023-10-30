@@ -1,7 +1,7 @@
 // App.js
 import React, { useState } from 'react';
 import './App.css';
-import Dashboard from './Dashboard';
+import Dashboard from './Dashboard.js';
 import Api from "./api.js"
 const api = new Api();
 
@@ -17,15 +17,29 @@ function App() {
   async function handleLogin(){
   try{
     const response = await api.loginUser({email, password});
+    console.log('Resposta da API:', response.data);
     const user = response.data.name;
+
+    console.log('Email1:', email);
+    console.log('Password1:', password);
+
+    console.log(user);
+    
+    setName(user);
+    setIsLoggedIn(true);
 
     if (user) {
       setName(user);
       setIsLoggedIn(true);
+      console.log('Email2:', email);
+    console.log('Password2:', password);
+    
     }
   }catch (e){
     setIsLoggedIn(false);
     alert("Usuário ou senha incorreto");
+    console.log('Email3:', email);
+    console.log('Password3:', password);
   }
   };
 

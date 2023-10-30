@@ -2,7 +2,7 @@ import axios from 'axios';
 
 class Api {
 
-  // Configuração padrão do Axios
+  // Configuração padrão do Axios http://localhost:3001 ou https://api-login-0qlo.onrender.com/
   api = axios.create({
     baseURL: 'https://api-login-0qlo.onrender.com/',
   });
