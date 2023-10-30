@@ -14,7 +14,7 @@ class Api {
   
   // Exemplo de função para fazer uma solicitação de login de usuário
   loginUser = (userData) => {
-    return this.api.post('/auth', userData);
+    return this.api.post('/auth/', userData);
   };
 }
 
