@@ -17,10 +17,7 @@ Integrantes do grupo responsáveis por cada tarefa:
 <br>
 
 ## 🚀 Tecnologias
-<img align="right" height="150em" src="preview/mongo.png"/>
-<img align="right" height="150em" src="preview/react.png"/>
-<img align="right" height="150em" src="preview/node.png"/>
-<img align="right" height="150em" src="preview/node.png"/>
+<img align="right" height="150em" src="preview/mern_icon.png"/>
 <br>
 <p align="left">
  Utilizamos MongoDB, Express, React e Node.js para criar uma plataforma de registro simples e eficaz. Explorando o código você poderá ver melhor o trabalho realizado com essas tecnologias avançadas que foram incorporadas neste projeto! 
