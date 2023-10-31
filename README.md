@@ -1,6 +1,6 @@
 <h1 align="left">MERN-SignUp</h1>
 
-<p align="center"><img src="preview/app.gif" height="450em"></p>
+<p align="left"><img src="preview/app.gif" height="450em"></p>
 
 ## 💬 Sobre
 
@@ -42,7 +42,7 @@ Para que o Frontend e o Backend funcione, siga os passos abaixo:
 
 ## ✏️ Documentação
 
-PDF: [<a href="previre">](https://github.com/LucasLoopsT/MERN-SignUp/blob/main/preview/MERN-SignUp.pdf)TUTORIAL EM PDF
+- Tutorial da Aplicação (PDF): [Clique aqui](preview/MERN-SignUp.pdf)
 
 ## 🚀 Deploy
 
