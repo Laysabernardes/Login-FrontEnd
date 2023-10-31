@@ -19,7 +19,8 @@ Integrantes do grupo responsáveis por cada tarefa:
 ## 🚀 Tecnologias
 <img align="right" height="150em" src="preview/mongo.png"/>
 <img align="right" height="150em" src="preview/react.png"/>
-<img align="right" height="150em" src="preview/node.png"/>
+<img align="right" height="150em" src="![image](https://github.com/Laysabernardes/Login-FrontEnd/assets/132034642/5d7f84f0-8271-4f03-b7bc-9201dc70ad85)
+"/>
 <br>
 <p align="left">
  Utilizamos MongoDB, Express, React e Node.js para criar uma plataforma de registro simples e eficaz. Explorando o código você poderá ver melhor o trabalho realizado com essas tecnologias avançadas que foram incorporadas neste projeto! 
