@@ -43,3 +43,18 @@ Para que o Frontend e o Backend funcione, siga os passos abaixo:
 ## ✏️ Documentação
 
 PDF: [<a href="previre">](https://github.com/LucasLoopsT/MERN-SignUp/blob/main/preview/MERN-SignUp.pdf)https://github.com/LucasLoopsT/MERN-SignUp/blob/main/preview/MERN-SignUp.pdf
+
+## 🚀 Deploy
+
+Este projeto foi implantado e está acessível online. Você pode acessar as rotas do backend [aqui](https://api-login-0qlo.onrender.com/doc/) e ver a parte do frontend do projeto [aqui](https://laysabernardes.github.io/Login-FrontEnd/).
+
+## 🤝 Futuro do Projeto
+
+Este projeto foi desenvolvido em grupo como parte de um projeto acadêmico, mas tenho planos de continuar trabalhando nele. Meu objetivo é transformar essa página de login em um blog de postagem, onde os usuários poderão fazer login, ter um perfil próprio, criar textos e compartilhá-los com a rede. Para isso, planejo adicionar rotas e funções para criar, deletar e atualizar postagens. Aqui estão alguns passos que pretendo seguir:
+
+- [ ] Criar um sistema de autenticação de usuário.
+- [ ] Desenvolver um sistema de gerenciamento de perfil de usuário.
+- [ ] Implementar a capacidade de criar, editar e excluir postagens.
+- [ ] Adicionar funcionalidades de compartilhamento e interação social.
+
+Fique à vontade para contribuir ou entrar em contato caso tenha ideias para melhorias ou queira fazer parte deste projeto em evolução!
